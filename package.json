@@ -14,7 +14,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/RafaelEbenHart/PERTEMUAN-03-NOV-2025-RafaelEH/issues"
   },
