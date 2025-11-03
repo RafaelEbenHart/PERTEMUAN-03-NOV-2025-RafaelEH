@@ -1,0 +1,30 @@
+{
+  "name": "pertemuan-03-nov-2025-rafaeleh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev" :"nodemon app.js "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RafaelEbenHart/PERTEMUAN-03-NOV-2025-RafaelEH.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/RafaelEbenHart/PERTEMUAN-03-NOV-2025-RafaelEH/issues"
+  },
+  "homepage": "https://github.com/RafaelEbenHart/PERTEMUAN-03-NOV-2025-RafaelEH#readme",
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "mongoose": "^8.19.2",
+    "nodemon": "^3.1.10"
+  }
+}
